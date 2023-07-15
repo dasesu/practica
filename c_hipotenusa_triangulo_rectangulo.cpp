@@ -1,9 +1,9 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
-// some change here for git practice purpose
 
 int main( int argc, char *argv[]){
+   // se deben almacenar los catetos
    float cat1{0.0}; 
    float cat2{0.0}; 
 
