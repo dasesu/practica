@@ -1,6 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
+// some change here for git practice purpose
 
 int main( int argc, char *argv[]){
    float cat1{0.0}; 
