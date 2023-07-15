@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-// permite cambiar la prepresentacion decimal
+// esta libreria es para el setprecision 
 
 int main( int argc, char *argv[] ){
    // El triangulo se compone de una base y una altura
