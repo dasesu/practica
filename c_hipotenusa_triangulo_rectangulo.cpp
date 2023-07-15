@@ -1,6 +1,8 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
+// 4 5 6
+
 
 int main( int argc, char *argv[]){
    // se deben almacenar los catetos
