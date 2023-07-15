@@ -1,8 +1,9 @@
 #include <iostream>
 #include <iomanip>
+// permite cambiar la prepresentacion decimal
 
 int main( int argc, char *argv[] ){
-   // se requiere la base y la altura de un triangulo
+   // El triangulo se compone de una base y una altura
    float base{0.0};
    float altura{0.0};
    //std::printf("Introduzca la base del triangulo\n");
