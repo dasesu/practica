@@ -20,6 +20,6 @@ int main( int argc, char *argv[] ){
    //std::printf("El area del triangulo es: %.2f\n", area);
    std::cout << "El area del triangulo es: " << std::fixed << std::setprecision(2) << area << '\n';
 
-   return 0;
+   return 0; // returna 0
 }
 
